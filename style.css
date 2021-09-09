@@ -1,0 +1,49 @@
+    body {
+        background-image: url("background.jpg");
+    }
+    
+    .heading {
+        width: 100%;
+        font-size: 25px;
+        margin: 0px;
+        box-shadow: 5px 5px 5px blue;
+    }
+    
+    .heading_div {
+        float: none;
+        background: whitesmoke;
+        padding: 20px;
+        border-radius: 20px;
+        color: black;
+    }
+    
+    .heading_div2 {
+        font-size: 20px;
+    }
+    
+    .object_name_paragraph {
+        font-size: 20px;
+        box-shadow: 5px 5px 5px yellowgreen;
+    }
+    
+    .object_acc_paragraph {
+        font-size: 20px;
+        box-shadow: 5px 5px 5px orangered;
+    }
+    
+    .copyright-footer {
+        background-color: peachpuff;
+        text-align: center;
+        color: royalblue;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+        line-height: 3;
+    }
+    
+    canvas {
+        border: 5px solid rgb(181, 209, 129);
+        margin-top: 300px;
+        box-shadow: 5px 5px 5px lawngreen;
+        border-radius: 20px;
+    }
